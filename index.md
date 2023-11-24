@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Control of a stepper motor using mikroC and LabVIEW](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images369060992_302935746039133_3171780958391083808_n.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
