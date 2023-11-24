@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Control of a stepper motor using mikroC and LabVIEW](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
