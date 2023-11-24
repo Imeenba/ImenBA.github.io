@@ -6,6 +6,7 @@
 
 [Control of a stepper motor using mikroC and LabVIEW](/sample_page)
 <img src="images/369060992_302935746039133_3171780958391083808_n.jpg?raw=true"/>
+<img src="images/405319688_3084135358398208_3941317257222434373_n.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
