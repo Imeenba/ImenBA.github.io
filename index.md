@@ -9,7 +9,7 @@
 <img src="images/405319688_3084135358398208_3941317257222434373_n.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[AI Detection of fatigue for a car driver ](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
